@@ -1,0 +1,64 @@
+body {
+	background: url(../images/hong_kong_streets_night.jpg) no-repeat;
+	background-size: cover;
+	font-family: "Courier Light", monospace;
+	color: #fff;
+}
+
+h1 {
+	font-size: 45px; 
+	font-weight: normal;
+	text-align: center;
+	padding: 45px;
+}
+
+h3 {
+	font-size: 30px;
+	font-weight: normal;
+	text-align: center;
+}
+
+h4 {
+	font-size: 25px;
+}
+
+p {
+	font-size: 20px;
+	padding: 10px;
+}
+
+#main {
+	width: 50%;
+	margin: auto;
+	background-color: rgba(0,0,0,.2);
+	text-align: justify;
+	padding: 300px 40px;
+}
+
+#list {
+	margin: auto;
+	width: 75%;
+}
+
+ul {
+	text-align: left;
+	font-size: 20px;
+}
+
+li {
+	padding: 8px;
+}
+
+#contact {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width: 350px;
+	text-align: center;
+	background-color: rgba(0,0,0,.2);
+}
+
+a {
+	color: #ed0404;
+
+}
