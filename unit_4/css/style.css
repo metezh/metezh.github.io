@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme|Open+Sans:400,600|Roboto:300,400,500');
+
+body {
+	background: url(../images/hong_kong_streets_night.jpg) no-repeat;
+	background-size: cover;
+	font-family: "Open Sans", monospace;
+	color: #fff;
+}
+
+h1 {
+	font-family: 'Biorhyme';
+	font-size: 45px; 
+	font-weight: normal;
+	text-align: center;
+	padding: 45px;
+}
+
+h3 {
+	font-family: 'Biorhyme';
+	font-size: 30px;
+	font-weight: normal;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Biorhyme';
+	font-size: 25px;
+}
+
+p {
+	font-size: 20px;
+	padding: 5px;
+}
+
+#main {
+	width: 50%;
+	margin: auto;
+	background-color: rgba(0,0,0,.2);
+	text-align: justify;
+	padding: 300px 40px;
+}
+
+#list {
+	margin: auto;
+	width: 75%;
+}
+
+ul {
+	text-align: left;
+	font-size: 20px;
+}
+
+li {
+	padding: 4px;
+}
+
+#contact {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width: 350px;
+	text-align: center;
+	background-color: rgba(0,0,0,.2);
+}
+
+a {
+	color: #ed0404;
+
+}
